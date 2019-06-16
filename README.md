@@ -1,6 +1,7 @@
 # Hit-the-mole
 
 Introduction of Game: - This is a simple arcade game in which you Hit the Moles. Moles keep on coming and you have to kill them with your hammer. After hitting every new mole, the speed of their arrival increases. And at the moment you miss the mole you lose.
+
 Description of this project: - This project is based on the principle that you have to hit the mole and after every correct hit the speed of arrival of mole increases i.e. wait time of next mole start decreasing after every correct hit and if you miss the mole your game is over.
 
 Set up Instructions:
