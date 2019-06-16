@@ -11,8 +11,8 @@ Set up Instructions:
 5. UpLoad your coding , if green light start blinking in Arduino its mean you are connected.Project start working as per your code if it is not make sure that your wire should be tightly connected.
 
 Components: 
-• Arduino Uno 
-• 4 x color (red, green, yellow, pink) illuminated momentary push button switch (or red, green, yellow, pink and 4 x Push buttons) 
-• 4 x 220-ohm resistor 
-• holder or usb cable connect with computer 
-• Wires
+1. Arduino Uno 
+2. 4 x color (red, green, yellow, pink) illuminated momentary push button switch (or red, green, yellow, pink and 4 x Push buttons) 
+3. 4 x 220-ohm resistor 
+4. holder or usb cable connect with computer 
+5. Wires
