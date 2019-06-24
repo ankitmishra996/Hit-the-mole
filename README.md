@@ -19,3 +19,6 @@ Components:
 5.	Wires
 Tools Used: soldering iron, cutter, screw drivers, saw, drill, glue gun (optional)
 
+
+
+
