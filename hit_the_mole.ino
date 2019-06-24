@@ -42,6 +42,7 @@ void loop() {
     Serial.println("Miss the mole! Game over.");
     miss();
     waitTime = 3000;               // 1 sec = 1000 milisecond
+    counter = 1;
   } 
 }
 
