@@ -19,7 +19,7 @@ Components:
 5.	Wires
 Tools Used: soldering iron, cutter, screw drivers, saw, drill, glue gun (optional)
 
-![](Assemble1.jpeg =250x250)
+![](Assemble1.jpeg )
 ![](Schematic%20Dig.jpg)
 
 
