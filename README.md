@@ -20,6 +20,7 @@ Components:
 Tools Used: soldering iron, cutter, screw drivers, saw, drill, glue gun (optional)
 
 ![](Assemble1.jpeg )
+<img src="Assemble1.jpeg" width="100" height="100">
 ![](Schematic%20Dig.jpg)
 
 
