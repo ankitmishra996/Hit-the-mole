@@ -23,7 +23,7 @@ Tools Used: soldering iron, cutter, screw drivers, saw, drill, glue gun (optiona
 ![](Assemble1.jpeg?v=4&s=200)
 ![](Schematic%20Dig.jpg)
 -->
-<img src="Assemble1.jpeg" width="300" height="250">
+<img src="Assemble1.jpeg" align="middle" width="300" height="250">
 <img src="Schematic%20Dig.jpg" width="300" height="250">
 
 
